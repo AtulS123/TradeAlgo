@@ -1,0 +1,3 @@
+"""
+Strategy rating system modules
+"""
