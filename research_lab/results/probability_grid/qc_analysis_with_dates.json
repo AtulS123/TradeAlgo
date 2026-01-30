@@ -1,0 +1,46 @@
+{
+  "inside_touched_high_first": {
+    "count": 590,
+    "time_to_1st_order": {
+      "min": 0,
+      "min_date": "2015-02-19",
+      "max": 370,
+      "max_date": "2015-06-16",
+      "median": 20,
+      "median_date": "2016-06-27",
+      "avg": 87,
+      "qc_beyond_market_hours": 0,
+      "qc_max_valid": 370
+    },
+    "second_order": {
+      "returned_to_low": {
+        "count": 78
+      },
+      "stayed_above_low": {
+        "count": 512
+      }
+    }
+  },
+  "inside_touched_low_first": {
+    "count": 671,
+    "time_to_1st_order": {
+      "min": 0,
+      "min_date": "2015-01-29",
+      "max": 590,
+      "max_date": "2017-10-19",
+      "median": 20,
+      "median_date": "2015-05-06",
+      "avg": 76,
+      "qc_beyond_market_hours": 2,
+      "qc_max_valid": 375
+    },
+    "second_order": {
+      "returned_to_high": {
+        "count": 52
+      },
+      "stayed_below_high": {
+        "count": 619
+      }
+    }
+  }
+}

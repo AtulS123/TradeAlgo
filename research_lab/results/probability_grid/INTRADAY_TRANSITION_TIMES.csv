@@ -1,0 +1,7 @@
+Transition_Type,Total_Events,Most_Common_Time,Top_Time_Count,Top_Time_Percentage,Avg_Duration_Minutes,Median_Duration_Minutes
+Inside To Above,625,09:30,289.0,46.2%,,
+Inside To Below,732,09:30,356.0,48.6%,,
+Above To Inside,523,09:30,323.0,61.8%,,
+Below To Inside,173,09:30,108.0,62.4%,,
+Inside To Above Then Back,590,14:00,,,10.6,0.0
+Inside To Below Then Back,681,12:00,,,8.6,0.0

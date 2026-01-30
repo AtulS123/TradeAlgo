@@ -1,0 +1,95 @@
+
+    <!-- Market Open Below Table -->
+    <div class="grid-container" style="margin-bottom: 40px;">
+        <h2 style="padding: 15px 15px 0; margin:0; color:#2c3e50;">3. Market Open Below Analysis</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th style="width: 20%">Opening Position</th>
+                    <th style="width: 15%">2nd Order Move</th>
+                    <th style="width: 15%">% (Days)</th>
+                    <th style="width: 15%">3rd Order Move</th>
+                    <th style="width: 8%">% (Days)</th>
+                    <th style="width: 10%">VIX Stats</th>
+                    <th style="width: 10%">Timing</th>
+                    <th style="width: 12%">Example Dates</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Main Row -->
+                <tr class="scenario-header">
+                    <td rowspan="10"><strong>Open: Below<br>(Close < Prev Low)</strong><br><br>392 days</td>
+                    <td rowspan="6"><strong>Touched prev day low by 10 AM</strong></td>
+                    <td rowspan="6" class="prob-medium"><strong>38.8%</strong><br>(152)</td>
+                    <td>Stayed below prev low</td>
+                    <td class="prob-high">0.0%<br>(0)</td>
+                    <td>N/A</td>
+                    <td>N/A</td>
+                    <td class="date-example">N/A</td>
+                </tr>
+                
+                <!-- Above not mid with 4th order -->
+                <tr>
+                    <td rowspan="2" class="indent-1">Went above prev low but not to mid</td>
+                    <td rowspan="2" class="prob-medium">60.5%<br>(92)</td>
+                    <td class="indent-2">Touched prev day low by EOD</td>
+                    <td class="prob-low">98.9%<br>(91)</td>
+                    <td>min: 11.56<br>max: 71.48<br>median: 16.11<br>avg: 18.52</td>
+                    <td>min: 10m<br>max: 340m<br>median: 15m<br>avg: 21m</td>
+                    <td class="date-example">2025-05-09<br>2025-03-04<br>2025-02-03<br>2024-12-17<br>2024-11-13</td>
+                </tr>
+                <tr>
+                    <td class="indent-2">Did not touch prev day low by EOD</td>
+                    <td class="prob-high">1.1%<br>(1)</td>
+                    <td>min: 13.29<br>max: 13.29<br>median: 13.29<br>avg: 13.29</td>
+                    <td>N/A</td>
+                    <td class="date-example">2022-12-12</td>
+                </tr>
+                
+                <!-- Touched mid -->
+                <tr>
+                    <td>Went above to touch mid</td>
+                    <td class="prob-medium">29.6%<br>(45)</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>min: 10.83<br>max: 63.28<br>median: 16.04<br>avg: 18.0</td>
+                    <td>min: 15m<br>max: 370m<br>median: 165m<br>avg: 183m</td>
+                    <td class="date-example">2025-04-01<br>2024-10-04<br>2024-06-24<br>2024-05-08<br>2024-03-05</td>
+                </tr>
+                
+                <!-- Touched high -->
+                <tr>
+                    <td>Went above to touch high</td>
+                    <td class="prob-low">9.9%<br>(15)</td>
+                    <td>-</td>
+                    <td>-</td>
+                    <td>min: 10.58<br>max: 19.99<br>median: 14.6<br>avg: 15.08</td>
+                    <td>min: 45m<br>max: 360m<br>median: 205m<br>avg: 202m</td>
+                    <td class="date-example">2024-11-11<br>2024-08-12<br>2024-07-18<br>2024-04-25<br>2024-04-03</td>
+                </tr>
+                
+                <!-- Separator row -->
+                <tr style="height: 10px; background-color: #f0f0f0;">
+                    <td colspan="8"></td>
+                </tr>
+                
+                <!-- Did NOT touch by 10 AM -->
+                <tr class="scenario-header">
+                    <td rowspan="2"><strong>Did NOT touch prev low by 10 AM</strong></td>
+                    <td rowspan="2" class="prob-high"><strong>61.2%</strong><br>(240)</td>
+                    <td>Touched prev day low by EOD</td>
+                    <td class="prob-medium">30.0%<br>(72)</td>
+                    <td>min: 10.69<br>max: 71.97<br>median: 16.99<br>avg: 19.53</td>
+                    <td>min: 50m<br>max: 370m<br>median: 187m<br>avg: 193m</td>
+                    <td class="date-example">2025-06-02<br>2025-05-27<br>2025-03-11<br>2024-12-31<br>2024-12-13</td>
+                </tr>
+                <tr>
+                    <td>Did not touch prev day low by EOD</td>
+                    <td class="prob-high">70.0%<br>(168)</td>
+                    <td>min: 10.88<br>max: 45.39<br>median: 16.58<br>avg: 17.96</td>
+                    <td>N/A</td>
+                    <td class="date-example">2025-07-25<br>2025-07-18<br>2025-07-14<br>2025-07-11<br>2025-06-13</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>

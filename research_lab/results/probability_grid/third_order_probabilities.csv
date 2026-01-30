@@ -1,0 +1,7 @@
+Scenario,Outcome,Probability,Total_Cases
+Inside Below Return Then,Broke Below Again,97.08%,617
+Inside Below Return Then,Stayed Inside Rest Of Day,2.43%,617
+Inside Below Return Then,Returned At Eod,0.49%,617
+Inside Above Return Then,Broke Above Again,95.69%,511
+Inside Above Return Then,Stayed Inside Rest Of Day,3.13%,511
+Inside Above Return Then,Returned At Eod,1.17%,511

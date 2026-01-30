@@ -1,0 +1,5 @@
+Time_Window,Significance,Breakout_Probability,Breakdown_Probability,Action,Strategy
+9:00 - 9:30 AM,CRITICAL,40.2%,40.4%,WATCH CLOSELY! 40% of all directional moves happen now. But remember: 85% reverse later!,"Identify direction, then FADE after 10 AM"
+9:30 - 10:00 AM,HIGH,~20%,~20%,Consolidation period. Watch for confirmation of morning move,"If morning breakout holds, consider trend continuation. Otherwise, fade"
+10:00 AM - 2:00 PM,MEDIUM,~30%,~30%,"If opened inside and broke out in morning, expect mean reversion NOW",Mean reversion trades work best in this window
+2:00 PM - 3:30 PM,MEDIUM,~10%,~10%,Final hour. Closing moves typically confirm or reverse morning direction,Square off positions before close unless strong trend

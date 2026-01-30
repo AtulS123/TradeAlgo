@@ -1,0 +1,7 @@
+IF_This_Happens,THEN_Expect,Probability,Best_Strategy,Win_Rate
+Day opens INSIDE range,Directional move (84% of days),84%,"Wait for initial move, then FADE it",85-87%
+Day opens ABOVE range,Gap fill (return to range),53%,"Short near open, target prev day high",53%
+Day opens BELOW range,Gap fill (return to range),50%,"Long near open, target prev day low",50%
+"Opened inside, broke above in first 30 min",Return to range,85%,"SHORT after breakout, target prev high retest",85%
+"Opened inside, broke below in first 30 min",Return to range,87%,"LONG after breakdown, target prev low retest",87%
+Big directional move before 9:30 AM,Mean reversion 10 AM - 2 PM,85%,Fade the morning move mid-day,85%

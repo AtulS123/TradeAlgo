@@ -1,0 +1,68 @@
+{
+  "row1_stayed_within_10pct_above": {
+    "vix_stats": {
+      "min": 10.56,
+      "max": 31.37,
+      "avg": 16.22,
+      "median": 15.56
+    },
+    "timing_stats": null
+  },
+  "row2_went_10pct_above": {
+    "vix_stats": {
+      "min": 10.35,
+      "max": 76.95,
+      "avg": 16.53,
+      "median": 15.43
+    },
+    "timing_stats": {
+      "min": 0.0,
+      "min_date": "2015-04-01",
+      "max": 350.0,
+      "max_date": "2019-04-05",
+      "avg": 36.14,
+      "median": 5.0,
+      "median_date": "2015-01-12"
+    }
+  },
+  "row3_stayed_within_10pct_below": {
+    "vix_stats": {
+      "min": 11.36,
+      "max": 81.9,
+      "avg": 17.32,
+      "median": 15.26
+    },
+    "timing_stats": null
+  },
+  "row4_went_10pct_below": {
+    "vix_stats": {
+      "min": 10.18,
+      "max": 64.48,
+      "avg": 16.63,
+      "median": 15.45
+    },
+    "timing_stats": {
+      "min": 0.0,
+      "min_date": "2015-01-14",
+      "max": 360.0,
+      "max_date": "2023-09-18",
+      "avg": 27.96,
+      "median": 5.0,
+      "median_date": "2015-01-29"
+    }
+  },
+  "row5_stayed_inside": {
+    "vix_stats": {
+      "min": 10.76,
+      "max": 59.77,
+      "avg": 17.3,
+      "median": 15.79
+    },
+    "timing_stats": null
+  },
+  "meta": {
+    "total_days": 2612,
+    "normal_trading_days": 2600,
+    "special_days_excluded": 12
+  }
+}

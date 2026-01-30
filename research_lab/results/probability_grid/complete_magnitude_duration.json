@@ -1,0 +1,178 @@
+{
+  "summary": {
+    "total_days": 2611,
+    "inside_count": 1504,
+    "above_count": 800,
+    "below_count": 307
+  },
+  "scenarios": [
+    {
+      "opening": "INSIDE",
+      "outcome": "stayed_inside",
+      "count": 245,
+      "probability": 16.289893617021274,
+      "avg_magnitude": 0,
+      "examples": [
+        {
+          "date": "2015-02-20",
+          "prev_high": 8913.45,
+          "prev_low": 8794.55,
+          "day_open": 8895.5,
+          "day_high": 8895.5,
+          "day_low": 8816.5,
+          "day_close": 8827.7,
+          "magnitude_above": 0,
+          "magnitude_below": 0
+        },
+        {
+          "date": "2015-03-11",
+          "prev_high": 8777.95,
+          "prev_low": 8677.6,
+          "day_open": 8728.75,
+          "day_high": 8755.3,
+          "day_low": 8682.5,
+          "day_close": 8701.8,
+          "magnitude_above": 0,
+          "magnitude_below": 0
+        },
+        {
+          "date": "2015-05-14",
+          "prev_high": 8254.55,
+          "prev_low": 8090.8,
+          "day_open": 8232.45,
+          "day_high": 8235.9,
+          "day_low": 8137.55,
+          "day_close": 8221.15,
+          "magnitude_above": 0,
+          "magnitude_below": 0
+        }
+      ]
+    },
+    {
+      "opening": "INSIDE",
+      "outcome": "moved_above_only",
+      "count": 511,
+      "probability": 33.976063829787236,
+      "avg_magnitude": 64.42426614481406,
+      "examples": [
+        {
+          "date": "2015-01-12",
+          "prev_high": 8303.0,
+          "prev_low": 8191.1,
+          "day_open": 8291.35,
+          "day_high": 8332.25,
+          "day_low": 8245.6,
+          "day_close": 8326.55,
+          "magnitude_above": 29.25,
+          "magnitude_below": 0
+        },
+        {
+          "date": "2015-01-28",
+          "prev_high": 8924.95,
+          "prev_low": 8825.55,
+          "day_open": 8902.75,
+          "day_high": 8985.05,
+          "day_low": 8874.2,
+          "day_close": 8906.8,
+          "magnitude_above": 60.099999999998545,
+          "magnitude_below": 0
+        },
+        {
+          "date": "2015-02-11",
+          "prev_high": 8646.15,
+          "prev_low": 8472.05,
+          "day_open": 8603.3,
+          "day_high": 8651.9,
+          "day_low": 8594.05,
+          "day_close": 8635.5,
+          "magnitude_above": 5.75,
+          "magnitude_below": 0
+        }
+      ]
+    },
+    {
+      "opening": "INSIDE",
+      "outcome": "moved_below_only",
+      "count": 617,
+      "probability": 41.023936170212764,
+      "avg_magnitude": 77.9531604538087,
+      "examples": [
+        {
+          "date": "2015-01-14",
+          "prev_high": 8356.65,
+          "prev_low": 8268.15,
+          "day_open": 8307.25,
+          "day_high": 8326.3,
+          "day_low": 8236.75,
+          "day_close": 8287.75,
+          "magnitude_above": 0,
+          "magnitude_below": 31.399999999999636
+        },
+        {
+          "date": "2015-01-29",
+          "prev_high": 8985.05,
+          "prev_low": 8874.2,
+          "day_open": 8901.5,
+          "day_high": 8966.2,
+          "day_low": 8861.65,
+          "day_close": 8950.2,
+          "magnitude_above": 0,
+          "magnitude_below": 12.550000000001091
+        },
+        {
+          "date": "2015-02-02",
+          "prev_high": 8996.6,
+          "prev_low": 8775.6,
+          "day_open": 8802.5,
+          "day_high": 8839.9,
+          "day_low": 8751.45,
+          "day_close": 8798.15,
+          "magnitude_above": 0,
+          "magnitude_below": 24.149999999999636
+        }
+      ]
+    },
+    {
+      "opening": "INSIDE",
+      "outcome": "moved_both",
+      "count": 131,
+      "probability": 8.710106382978724,
+      "avg_magnitude": 45.96526717557255,
+      "examples": [
+        {
+          "date": "2015-02-05",
+          "prev_high": 8791.45,
+          "prev_low": 8704.7,
+          "day_open": 8733.1,
+          "day_high": 8838.3,
+          "day_low": 8683.95,
+          "day_close": 8699.4,
+          "magnitude_above": 46.849999999998545,
+          "magnitude_below": 20.75
+        },
+        {
+          "date": "2015-02-19",
+          "prev_high": 8893.9,
+          "prev_low": 8810.05,
+          "day_open": 8883.05,
+          "day_high": 8913.45,
+          "day_low": 8794.55,
+          "day_close": 8898.35,
+          "magnitude_above": 19.55000000000109,
+          "magnitude_below": 15.5
+        },
+        {
+          "date": "2015-05-21",
+          "prev_high": 8440.2,
+          "prev_low": 8392.65,
+          "day_open": 8434.5,
+          "day_high": 8442.2,
+          "day_low": 8382.7,
+          "day_close": 8419.05,
+          "magnitude_above": 2.0,
+          "magnitude_below": 9.949999999998909
+        }
+      ]
+    }
+  ]
+}

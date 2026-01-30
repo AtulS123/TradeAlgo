@@ -1,0 +1,50 @@
+{
+  "inside_touched_high_first": {
+    "count": 590,
+    "probability_of_inside": 39.2,
+    "time_to_1st_order": {
+      "min": 0,
+      "max": 370,
+      "median": 20,
+      "median_date": "2016-06-27",
+      "median_time_actual": 20,
+      "avg": 87
+    },
+    "second_order": {
+      "returned_to_low": {
+        "count": 78,
+        "probability": 13.2
+      },
+      "stayed_above_low": {
+        "count": 512,
+        "probability": 86.8
+      }
+    }
+  },
+  "inside_touched_low_first": {
+    "count": 671,
+    "probability_of_inside": 44.6,
+    "time_to_1st_order": {
+      "min": 0,
+      "max": 590,
+      "median": 20,
+      "median_date": "2015-05-06",
+      "median_time_actual": 20,
+      "avg": 76
+    },
+    "second_order": {
+      "returned_to_high": {
+        "count": 52,
+        "probability": 7.7
+      },
+      "stayed_below_high": {
+        "count": 619,
+        "probability": 92.3
+      }
+    }
+  },
+  "inside_stayed": {
+    "count": 245,
+    "probability_of_inside": 16.3
+  }
+}

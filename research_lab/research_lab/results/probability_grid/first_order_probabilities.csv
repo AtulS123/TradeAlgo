@@ -1,0 +1,4 @@
+,returned_to_range,stayed_above,went_below_range,moved_above_only,moved_below_only,moved_both,stayed_inside,stayed_below,went_above_range
+ABOVE,55.18169582772544,32.97442799461642,11.843876177658142,,,,,,
+INSIDE,,,,35.79234972677596,35.92896174863388,11.68032786885246,16.598360655737704,,
+BELOW,61.73469387755102,,,,,,,32.142857142857146,6.122448979591836

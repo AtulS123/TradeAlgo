@@ -1,0 +1,46 @@
+{
+  "first_order": {
+    "ABOVE": {
+      "returned_to_range": 55.18169582772544,
+      "stayed_above": 32.97442799461642,
+      "went_below_range": 11.843876177658142
+    },
+    "INSIDE": {
+      "moved_above_only": 35.79234972677596,
+      "moved_below_only": 35.92896174863388,
+      "moved_both": 11.68032786885246,
+      "stayed_inside": 16.598360655737704
+    },
+    "BELOW": {
+      "returned_to_range": 61.73469387755102,
+      "stayed_below": 32.142857142857146,
+      "went_above_range": 6.122448979591836
+    }
+  },
+  "second_order": {
+    "inside_then_above": {
+      "returned_to_range": 89.50381679389314,
+      "stayed_above": 10.49618320610687,
+      "total_cases": 524
+    },
+    "inside_then_below": {
+      "returned_to_range": 91.63498098859316,
+      "stayed_below": 8.365019011406844,
+      "total_cases": 526
+    }
+  },
+  "time_patterns": {
+    "breakout_times": {
+      "total_events": 695,
+      "most_common_window": "09:00",
+      "most_common_count": 306,
+      "most_common_pct": 44.02877697841727
+    },
+    "breakdown_times": {
+      "total_events": 697,
+      "most_common_window": "09:00",
+      "most_common_count": 222,
+      "most_common_pct": 31.850789096126253
+    }
+  }
+}

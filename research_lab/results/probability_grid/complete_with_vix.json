@@ -1,0 +1,66 @@
+{
+  "inside_moved_above": {
+    "count": 511,
+    "probability": 33.976063829787236,
+    "magnitude_pct_price": 0.46722330323789124,
+    "magnitude_pct_range": 48.677467055426554,
+    "median_vix": 15.6,
+    "latest_example": {
+      "date": "2025-07-23",
+      "prev_high": 25182.0,
+      "prev_low": 25035.55,
+      "day_open": 25139.35,
+      "day_high": 25233.5,
+      "day_low": 25085.5
+    }
+  },
+  "inside_moved_below": {
+    "count": 617,
+    "probability": 41.023936170212764,
+    "magnitude_pct_price": 0.5738670797765381,
+    "magnitude_pct_range": 59.72782401067385,
+    "median_vix": 15.36,
+    "latest_example": {
+      "date": "2025-07-21",
+      "prev_high": 25144.6,
+      "prev_low": 24918.65,
+      "day_open": 24999.0,
+      "day_high": 25111.4,
+      "day_low": 24882.3
+    }
+  },
+  "inside_stayed": {
+    "count": 245,
+    "probability": 16.289893617021274,
+    "median_vix": 15.96,
+    "latest_example": {
+      "date": "2025-07-03",
+      "prev_high": 25608.1,
+      "prev_low": 25378.75,
+      "day_open": 25505.1,
+      "day_high": 25587.5,
+      "day_low": 25384.35
+    }
+  },
+  "inside_moved_both": {
+    "count": 131,
+    "probability": 8.710106382978724,
+    "median_vix": 15.4,
+    "latest_example": {
+      "date": "2025-07-02",
+      "prev_high": 25593.4,
+      "prev_low": 25501.8,
+      "day_open": 25588.3,
+      "day_high": 25608.1,
+      "day_low": 25378.75
+    }
+  },
+  "above_opening": {
+    "count": 800,
+    "median_vix": 15.57
+  },
+  "below_opening": {
+    "count": 307,
+    "median_vix": 16.08
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "moved_above_only": {
+    "count": 511,
+    "probability": 33.976063829787236,
+    "magnitude_pts": 64.42426614481406,
+    "magnitude_pct_price": 0.46722330323789124,
+    "magnitude_pct_range": 48.677467055426554
+  },
+  "moved_below_only": {
+    "count": 617,
+    "probability": 41.023936170212764,
+    "magnitude_pts": 77.9531604538087,
+    "magnitude_pct_price": 0.5738670797765381,
+    "magnitude_pct_range": 59.72782401067385
+  },
+  "moved_both": {
+    "count": 131,
+    "probability": 8.710106382978724,
+    "magnitude_pts": 91.9305343511451,
+    "magnitude_pct_price": 0.6485241037986074,
+    "magnitude_pct_range": 94.60039942771252
+  },
+  "stayed_inside": {
+    "count": 245,
+    "probability": 16.289893617021274,
+    "magnitude_pts": 0,
+    "magnitude_pct_price": 0,
+    "magnitude_pct_range": 0
+  }
+}

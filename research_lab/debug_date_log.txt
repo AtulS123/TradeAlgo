@@ -1,0 +1,26 @@
+--- Search Result for 2025-07-07 ---
+Found in buckets:
+ -> row2_direct -> dates
+
+--- Statistics for 2025-07-07 ---
+Prev Date: 2025-07-04
+Prev High: 25470.25
+Prev Low:  25331.65
+Prev Range: 138.59999999999854
+10% Extension Threshold ABOVE: 25484.11
+10% Extension Threshold BELOW: 25317.79
+
+Day Open: 25450.45
+First Candle (09:15) Close: 25424.65
+Day High: 25489.8
+Day Low:  25407.25
+Day Close: 25454.95
+Opening: INSIDE
+
+Time to First Touch High: 0 min
+Time to First Touch Low:  None min
+-> Touched HIGH First
+-> Extended > 10% (Close based) at 22 min
+
+--- Closing Analysis Check ---
+Close Inside (Not in Bottom Analysis)

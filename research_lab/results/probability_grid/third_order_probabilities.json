@@ -1,0 +1,18 @@
+{
+  "inside_below_return_then": {
+    "total_cases": 617,
+    "probabilities": {
+      "broke_below_again": 97.08265802269044,
+      "stayed_inside_rest_of_day": 2.4311183144246353,
+      "returned_at_eod": 0.48622366288492713
+    }
+  },
+  "inside_above_return_then": {
+    "total_cases": 511,
+    "probabilities": {
+      "broke_above_again": 95.69471624266144,
+      "stayed_inside_rest_of_day": 3.131115459882583,
+      "returned_at_eod": 1.1741682974559686
+    }
+  }
+}

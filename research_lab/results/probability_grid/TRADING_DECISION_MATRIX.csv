@@ -1,0 +1,14 @@
+Opening_Position,Current_State,Most_Likely_Outcome,Probability,Action,Risk_Level
+INSIDE,Just Opened (9:15 AM),Move Below Prev Low,41.0%,Watch for breakdown. Be ready to fade if moves below (87% return rate),MEDIUM
+INSIDE,Just Opened (9:15 AM),Move Above Prev High,34.0%,Watch for breakout. Be ready to fade if moves above (85% return rate),MEDIUM
+INSIDE,Just Opened (9:15 AM),Stay Inside All Day,16.3%,Range trading unlikely. Prepare for directional move,LOW
+INSIDE,Broke Below Prev Low,Return to Range,86.7%,FADE THE BREAKDOWN! Strong mean reversion expected,LOW (Mean Reversion Trade)
+INSIDE,Broke Below Prev Low,Stay Below All Day,13.3%,"If sustained below after 10 AM, trend continuation possible",HIGH
+INSIDE,Broke Above Prev High,Return to Range,84.5%,FADE THE BREAKOUT! Strong mean reversion expected,LOW (Mean Reversion Trade)
+INSIDE,Broke Above Prev High,Stay Above All Day,15.5%,"If sustained above after 10 AM, trend continuation possible",HIGH
+ABOVE,Just Opened (9:15 AM),Return to Range,53.3%,GAP FILL TRADE! Expect pullback into range,MEDIUM (Mean Reversion)
+ABOVE,Just Opened (9:15 AM),Stay Above All Day,31.1%,"Wait for confirmation. If holds above after 10 AM, trend strong",MEDIUM
+ABOVE,Just Opened (9:15 AM),Drop Below Range,15.6%,Rare but possible. Strong reversal signal if happens,HIGH
+BELOW,Just Opened (9:15 AM),Return to Range,50.2%,GAP FILL TRADE! Expect bounce into range,MEDIUM (Mean Reversion)
+BELOW,Just Opened (9:15 AM),Stay Below All Day,41.0%,"Watch for sustained weakness. If holds below after 10 AM, trend strong",MEDIUM
+BELOW,Just Opened (9:15 AM),Rally Above Range,8.8%,Rare but possible. Strong reversal signal if happens,HIGH
